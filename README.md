@@ -2,8 +2,7 @@
 - 👀 I’m interested in FullStack Development
 - 🌱 I’m currently learning Front-End Development
 - 💞️ I’m looking to collaborate on Web Development
-- 📫 How to reach me:
-  Email: Sarpascontact@gmail.com
+- 📫 How to reach me: Sarpascontact@gmail.com
 
 <!---
 Apljs/Apljs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
